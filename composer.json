@@ -6,7 +6,10 @@
             "email": "riicardoferreiira@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "league/plates": "^3.4",
+        "symfony/var-dumper": "^6.2"
+    },
     "autoload": {
         "psr-4": {
             "app\\":"app"
