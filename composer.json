@@ -1,0 +1,17 @@
+{
+    "name": "ricardoferreiro/routes-phpoo",
+    "authors": [
+        {
+            "name": "Ricardo Ferreiro",
+            "email": "riicardoferreiira@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"app"
+        },
+        "files":[
+        ]
+    }
+}
